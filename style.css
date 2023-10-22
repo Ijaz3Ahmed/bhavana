@@ -1,0 +1,31 @@
+body{
+    
+    background-image: url(https://i.pinimg.com/564x/da/1d/f7/da1df7642561210e9575defd9d7610bc.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intro {
+  text-align: center;
+  margin-top: 100px;
+}
+
+
+h1 {
+  font-size: 32px;
+  color: #333;
+}
+
+p {
+  font-size: 18px;
+  color: #666;
+}
+h5 {
+    font-size: 20px;
+    color: #2b2929;
+    
+}
+h6{
+ font-size: 28px;
+    color:  black;
+}
